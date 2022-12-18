@@ -1,0 +1,16 @@
+{
+ "missionId": "229",
+ "missionName": "Nieprzytomna osoba na chodniku",
+ "requirements": [
+  {
+   "requirement": "ambulanse",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "277234242084456155131727274656815598905",
+ "credits": "1500"
+}

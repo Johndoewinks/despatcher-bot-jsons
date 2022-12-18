@@ -1,0 +1,12 @@
+{
+ "missionId": "494",
+ "missionName": "Beschädigte Radarfalle",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "71954166938339030848719605123720920280"
+}

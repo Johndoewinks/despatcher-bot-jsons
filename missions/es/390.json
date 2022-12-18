@@ -1,0 +1,12 @@
+{
+ "missionId": "390",
+ "missionName": "Atraco en joyería",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "256912521663690028709377530508159074467"
+}

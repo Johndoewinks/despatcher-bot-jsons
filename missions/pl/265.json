@@ -1,0 +1,16 @@
+{
+ "missionId": "265",
+ "missionName": "Pojazd Stojący na Zakazie",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  }
+ ],
+ "version": "240333313588224253254352161474903410434",
+ "credits": "600"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "163",
+ "missionName": "Drunkning",
+ "requirements": [
+  {
+   "requirement": "båtar",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "302391851253248189259705786373897939592"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "130",
+ "missionName": "Queimadura por ácido",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "218559132772934316371948823021634216582"
+}

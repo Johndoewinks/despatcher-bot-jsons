@@ -1,0 +1,12 @@
+{
+ "missionId": "111",
+ "missionName": "Brennende Vogelscheuche",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "321231771428050898746230637500525644081"
+}

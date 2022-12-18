@@ -1,0 +1,12 @@
+{
+ "missionId": "241",
+ "missionName": "Dyr i panikk som følge av fyrverkeri",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "241569711760008788853740927890500971227"
+}

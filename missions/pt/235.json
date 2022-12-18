@@ -1,0 +1,12 @@
+{
+ "missionId": "235",
+ "missionName": "Corte de papel ao abrir prendas de aniversário",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "293851225487324981661725713742046144523"
+}

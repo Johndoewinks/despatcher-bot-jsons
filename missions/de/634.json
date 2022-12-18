@@ -1,0 +1,20 @@
+{
+ "missionId": "634",
+ "missionName": "Einbruch in Wohnhaus - Täter am Ort",
+ "requirements": [
+  {
+   "requirement": "dhufükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "zivilstreifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "1300",
+ "version": "244117932522366831353602740002789117143"
+}

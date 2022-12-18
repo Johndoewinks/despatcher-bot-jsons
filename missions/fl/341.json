@@ -1,0 +1,12 @@
+{
+ "missionId": "341",
+ "missionName": "Henkilö kaatui lehtikasaan",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "247865765174050180726229668001829133824"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "85",
+ "missionName": "Sachbeschädigung",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "339419775019432221815490022622769682061"
+}

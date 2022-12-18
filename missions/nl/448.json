@@ -1,0 +1,12 @@
+{
+ "missionId": "448",
+ "missionName": "Suikertekort",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "255305520913663686861157061405191981323"
+}

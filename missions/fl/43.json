@@ -1,0 +1,12 @@
+{
+ "missionId": "43",
+ "missionName": "745 Kaatunut henkilö",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "114007205972581479179172167598998344555"
+}

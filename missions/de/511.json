@@ -1,0 +1,12 @@
+{
+ "missionId": "511",
+ "missionName": "Herrenloses Gepäckstück",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "85604922978295546871871947105980519596"
+}

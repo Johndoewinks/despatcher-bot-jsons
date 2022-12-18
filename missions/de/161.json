@@ -1,0 +1,12 @@
+{
+ "missionId": "161",
+ "missionName": "Baum auf PKW",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "80194785982727702214606812391964400369"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "42",
+ "missionName": "Misstänkt fraktur",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "329649038330332143970066335407792769060"
+}

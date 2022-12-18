@@ -1,0 +1,12 @@
+{
+ "missionId": "839",
+ "missionName": "Hevige paniekaanval",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "92207124691498527081917556052898279445"
+}

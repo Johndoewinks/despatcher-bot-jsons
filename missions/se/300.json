@@ -1,0 +1,12 @@
+{
+ "missionId": "300",
+ "missionName": "Brinnande bukett",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "156839771561437626411359658195508567147"
+}

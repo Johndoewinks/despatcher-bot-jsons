@@ -1,0 +1,12 @@
+{
+ "missionId": "213",
+ "missionName": "Ferido após explosao de fogo-de-artificio",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "305517638332556874112259509805141151569"
+}

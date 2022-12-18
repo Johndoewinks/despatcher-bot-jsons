@@ -1,0 +1,12 @@
+{
+ "missionId": "434",
+ "missionName": "Djur fångat i en brunn",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "298536831950975111548405325543852635993"
+}

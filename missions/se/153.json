@@ -1,0 +1,12 @@
+{
+ "missionId": "153",
+ "missionName": "Hästolycka",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "116958522041331781092417385068487899781"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "338",
+ "missionName": "Motorrad-Brand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "18001009706848781035451364957626233836"
+}

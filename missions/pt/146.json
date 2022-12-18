@@ -1,0 +1,16 @@
+{
+ "missionId": "146",
+ "missionName": "Atropelamento de Ciclistas",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "5"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "10"
+  }
+ ],
+ "credits": "2950",
+ "version": "194182982650549992902777087424039239288"
+}

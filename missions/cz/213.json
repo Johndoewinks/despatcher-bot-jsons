@@ -1,0 +1,12 @@
+{
+ "missionId": "213",
+ "missionName": "Auto zapálené zábavní pyrotechnikou",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "370",
+ "version": "92235878469632190699956601247615331447"
+}

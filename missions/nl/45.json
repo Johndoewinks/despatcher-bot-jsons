@@ -1,0 +1,12 @@
+{
+ "missionId": "45",
+ "missionName": "Overdosis alcohol",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "156302556735204234169254323419245366609"
+}

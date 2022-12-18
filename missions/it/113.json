@@ -1,0 +1,16 @@
+{
+ "missionId": "113",
+ "missionName": "Caduta da parete rocciosa",
+ "requirements": [
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "236234376215515854946380777735999007132"
+}

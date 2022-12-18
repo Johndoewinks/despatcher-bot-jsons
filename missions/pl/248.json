@@ -1,0 +1,16 @@
+{
+ "missionId": "248",
+ "missionName": "Zakorkowanie Ulicy",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  }
+ ],
+ "version": "198405960479699528922679178108547858347",
+ "credits": "500"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "43",
+ "missionName": "Caída",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "55417478921367127872448710093579266133"
+}

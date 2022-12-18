@@ -1,0 +1,12 @@
+{
+ "missionId": "91",
+ "missionName": "747 Murtunut käsi",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "76230778105593526237778313013000207440"
+}

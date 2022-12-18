@@ -1,0 +1,16 @@
+{
+ "missionId": "307",
+ "missionName": "Carrinho de gelados contaminado",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "4"
+  }
+ ],
+ "credits": "1",
+ "version": "38932909177370692105476564975330133027"
+}

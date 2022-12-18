@@ -1,0 +1,16 @@
+{
+ "missionId": "235",
+ "missionName": "Przedawkowanie Leków",
+ "requirements": [
+  {
+   "requirement": "ambulanse",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "137534938836304586162894264458731537355",
+ "credits": "500"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "516",
+ "missionName": "Flugzeug Erstlandung",
+ "requirements": [
+  {
+   "requirement": "flugfeldlöschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "1700",
+ "version": "26051508840489296871248685201385063564"
+}

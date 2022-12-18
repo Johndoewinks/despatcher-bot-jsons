@@ -1,0 +1,12 @@
+{
+ "missionId": "46",
+ "missionName": "Acidente com carro estacionado",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "335546022223295051916355983855234387393"
+}

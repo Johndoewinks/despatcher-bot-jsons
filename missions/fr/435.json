@@ -1,0 +1,16 @@
+{
+ "missionId": "435",
+ "missionName": "Intoxication alimentaire due à des baies sauvages",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "283784393797126266641459382088684178117"
+}

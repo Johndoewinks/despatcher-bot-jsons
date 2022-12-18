@@ -1,0 +1,24 @@
+{
+ "missionId": "272",
+ "missionName": "Allagamento (PICCOLO)",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "10"
+  }
+ ],
+ "credits": "4",
+ "version": "178456474186458889893093494034447897986"
+}

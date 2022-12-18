@@ -1,0 +1,12 @@
+{
+ "missionId": "681",
+ "missionName": "Medische assistentie",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "334264095924623926186987200601210065915"
+}

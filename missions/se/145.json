@@ -1,0 +1,16 @@
+{
+ "missionId": "145",
+ "missionName": "Överfallslarm",
+ "requirements": [
+  {
+   "requirement": "polishelikoptrar",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  }
+ ],
+ "credits": "8",
+ "version": "102851367105150529805114686911041163637"
+}

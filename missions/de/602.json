@@ -1,0 +1,16 @@
+{
+ "missionId": "602",
+ "missionName": "Feuer durch Abendessen bei Kerzenlicht",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": 2
+  },
+  {
+   "requirement": "rtw",
+   "qty": 2
+  }
+ ],
+ "credits": "500",
+ "version": "42517391823825718838159880550495564306"
+}

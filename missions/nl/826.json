@@ -1,0 +1,12 @@
+{
+ "missionId": "826",
+ "missionName": "Bevriezing door koelspray",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "136406417332551768941464077447284357628"
+}

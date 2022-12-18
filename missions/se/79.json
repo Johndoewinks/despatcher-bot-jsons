@@ -1,0 +1,19 @@
+{
+ "missionId": "79",
+ "missionName": "Trafikolycka - singel, avåkning",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "3"
+  }
+ ],
+ "version": "263168447466649832898855296304860481812"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "116",
+ "missionName": "Ryggsmärtor",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "238163217953555136990445006253661595504"
+}

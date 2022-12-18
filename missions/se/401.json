@@ -1,0 +1,16 @@
+{
+ "missionId": "401",
+ "missionName": "Brand ute - badstrand",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  }
+ ],
+ "credits": "760",
+ "version": "15277808183211900790128598780966567137"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "276",
+ "missionName": "Stulet hjärta",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "234462243434752512690885322462463084052"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "231",
+ "missionName": "Jubileumsgäst träffad av flygande kork",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "138082914633465305661010222018453899961"
+}

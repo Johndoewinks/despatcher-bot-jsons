@@ -1,0 +1,15 @@
+{
+ "missionId": "77",
+ "missionName": "Brinnande julstånd",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "283570384217798786069129199210003300210"
+}

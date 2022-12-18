@@ -1,0 +1,12 @@
+{
+ "missionId": "218",
+ "missionName": "Motokrosová nehoda",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "118471482823463414864633776790146070695"
+}

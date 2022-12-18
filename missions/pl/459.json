@@ -1,0 +1,20 @@
+{
+ "missionId": "459",
+ "missionName": "Płonąca cysterna",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "207833657257645165121940595169239812562",
+ "credits": "2300"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "304",
+ "missionName": "Chokladrån",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "328940528321084227729872396201931086311"
+}

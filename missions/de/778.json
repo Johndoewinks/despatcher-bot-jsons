@@ -1,0 +1,12 @@
+{
+ "missionId": "778",
+ "missionName": "Brennende Chemietoilette",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "55940133351514682451839133654416695334"
+}

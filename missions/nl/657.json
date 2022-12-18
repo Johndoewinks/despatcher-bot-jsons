@@ -1,0 +1,12 @@
+{
+ "missionId": "657",
+ "missionName": "Hoge koorts",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "135952639579670477752819484187662937535"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "348",
+ "missionName": "Stöld - kontorshus",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "292899823203797491072300238004860308616"
+}

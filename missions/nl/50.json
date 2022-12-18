@@ -1,0 +1,12 @@
+{
+ "missionId": "50",
+ "missionName": "Koortsstuip",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "158702740350288207785142196887998806385"
+}

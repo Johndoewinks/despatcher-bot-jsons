@@ -1,0 +1,12 @@
+{
+ "missionId": "257",
+ "missionName": "Verkehrsüberwachung",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "42008727889173692531439378079724143537"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "111",
+ "missionName": "Pessoa armada",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "4"
+  }
+ ],
+ "credits": "2500",
+ "version": "306291166234031864590221180900297029991"
+}

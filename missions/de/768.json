@@ -1,0 +1,12 @@
+{
+ "missionId": "768",
+ "missionName": "Jubiläumsgast von Korken getroffen",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "209655976704223556195469474954568735873"
+}

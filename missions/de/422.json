@@ -1,0 +1,12 @@
+{
+ "missionId": "422",
+ "missionName": "Sachbeschädigung an PKW",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "112160214279260642297247169948957121802"
+}

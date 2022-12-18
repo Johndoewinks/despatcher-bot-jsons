@@ -1,0 +1,12 @@
+{
+ "missionId": "109",
+ "missionName": "Coche dañado por los fuegos artificiales",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "11442223889672090447557819965353788608"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "100",
+ "missionName": "Påskeegg tyv",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "337094685954482820174915717795838506322"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "213",
+ "missionName": "Záchvat",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "221189357187966489973809866001675212033"
+}

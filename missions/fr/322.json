@@ -1,0 +1,12 @@
+{
+ "missionId": "322",
+ "missionName": "Perquisition de marchandises de contrefaçon",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "34496761937797009055513205809070015415"
+}

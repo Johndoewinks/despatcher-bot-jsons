@@ -1,0 +1,12 @@
+{
+ "missionId": "380",
+ "missionName": "Epileptische aanval",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "49937530395674842961754824775243251417"
+}

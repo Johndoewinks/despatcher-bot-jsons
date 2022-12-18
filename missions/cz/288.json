@@ -1,0 +1,12 @@
+{
+ "missionId": "288",
+ "missionName": "Nervozita",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "175513002840764604107646976836155949860"
+}

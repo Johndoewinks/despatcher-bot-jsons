@@ -1,0 +1,12 @@
+{
+ "missionId": "36",
+ "missionName": "Dolor torácico",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "188756686429224220799605049970241956485"
+}

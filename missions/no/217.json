@@ -1,0 +1,12 @@
+{
+ "missionId": "217",
+ "missionName": "Tyveri på julemarked",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "158298964654300416814212872950766594347"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "455",
+ "missionName": "Hipotermia po kąpieli w basenie z zimną wodą",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "59128602796166171676601989183634767046",
+ "credits": "100"
+}

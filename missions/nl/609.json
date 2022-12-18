@@ -1,0 +1,12 @@
+{
+ "missionId": "609",
+ "missionName": "Assistentie huisarts",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "96577863115998681991203617578020524298"
+}

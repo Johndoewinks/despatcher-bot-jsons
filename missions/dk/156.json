@@ -1,0 +1,11 @@
+{
+ "missionId": "156",
+ "missionName": "Grillbrand",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "version": "218663033808263465134352733573336638801"
+}

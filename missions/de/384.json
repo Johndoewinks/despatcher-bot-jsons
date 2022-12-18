@@ -1,0 +1,12 @@
+{
+ "missionId": "384",
+ "missionName": "Brennende Ballenpresse",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "261049285720626413429221217736018718993"
+}

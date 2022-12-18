@@ -1,0 +1,12 @@
+{
+ "missionId": "50",
+ "missionName": "Gestürzte Person",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "83770330610981080289404359010527793445"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "435",
+ "missionName": "Djur fångat i floden",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "257891074876771198084049391715306394154"
+}

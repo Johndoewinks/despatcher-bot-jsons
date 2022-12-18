@@ -1,0 +1,16 @@
+{
+ "missionId": "627",
+ "missionName": "Grill in Flammen",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw, naw",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "322165812784236111048556238229784772143"
+}

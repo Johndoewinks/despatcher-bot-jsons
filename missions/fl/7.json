@@ -1,0 +1,12 @@
+{
+ "missionId": "7",
+ "missionName": "421 Palavia lehtiä",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "339422619329471952808699221559927258839"
+}

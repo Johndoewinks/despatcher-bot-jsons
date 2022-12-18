@@ -1,0 +1,12 @@
+{
+ "missionId": "397",
+ "missionName": "Smält chokladkanin",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "218642343528642986221268981441573144297"
+}

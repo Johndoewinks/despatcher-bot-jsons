@@ -1,0 +1,12 @@
+{
+ "missionId": "93",
+ "missionName": "Alergická reakcia",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "235667467604419785295856875379941471386"
+}

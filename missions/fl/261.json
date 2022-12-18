@@ -1,0 +1,12 @@
+{
+ "missionId": "261",
+ "missionName": "103 Automaattihälytys",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "139456673436673742821543730389108749945"
+}

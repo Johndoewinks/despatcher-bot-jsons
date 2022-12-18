@@ -1,0 +1,16 @@
+{
+ "missionId": "154",
+ "missionName": "Desacatos num Bar",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "6"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "175323903323860965437501656256760801101"
+}

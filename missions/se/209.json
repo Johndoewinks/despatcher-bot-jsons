@@ -1,0 +1,12 @@
+{
+ "missionId": "209",
+ "missionName": "Godisstöld",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "238511866588969560511845934304910813117"
+}

@@ -1,0 +1,20 @@
+{
+ "camiones de bomberos": [0, 1],
+ "camión BUL": [1],
+ "camión de bomberos": [0, 1],
+ "camiones con plataforma": [2],
+ "camión con plataforma": [2],
+ "unidades de mando y comunicaciones": [3],
+ "unidad de mando y comunicaciones": [3],
+ "camiones cisterna": [6],
+"furgones de útiles varios": [4],
+ "ambulance": [5],
+ "ambulancia": [5],
+ "ambulancias": [5],
+ "patrol car": [8],
+ "coches patrulla": [8],
+ "coche patrulla": [8],
+ "Camión TPP": [7],
+ "hazmat": [7],
+ "vehículos de materiales peligrosos": [7]
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "17",
+ "missionName": "Płonąca skrzynka na listy",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "36235546880819692853851629571582935698",
+ "credits": "340"
+}

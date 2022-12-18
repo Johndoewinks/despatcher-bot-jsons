@@ -1,0 +1,12 @@
+{
+ "missionId": "166",
+ "missionName": "Incendio en hotel (pequeño)",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "12411059867474231234422801959821720362"
+}

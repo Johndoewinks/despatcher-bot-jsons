@@ -1,0 +1,16 @@
+{
+ "missionId": "157",
+ "missionName": "Herzrhythmusstörungen",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "191021410498248124239150859967875445900"
+}

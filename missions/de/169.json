@@ -1,0 +1,16 @@
+{
+ "missionId": "169",
+ "missionName": "Baum auf Gleisen",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "280569933221785707677917851578020069676"
+}

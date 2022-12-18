@@ -1,0 +1,16 @@
+{
+ "missionId": "241",
+ "missionName": "Pacco sospetto",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  },
+  {
+   "requirement": "artificieri  solo se disponibili",
+   "qty": "Sì"
+  }
+ ],
+ "credits": "1200",
+ "version": "333927990304979711724332115555898994228"
+}

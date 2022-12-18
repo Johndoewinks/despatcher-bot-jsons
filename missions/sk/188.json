@@ -1,0 +1,12 @@
+{
+ "missionId": "188",
+ "missionName": "Zranený parkourista",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "151559040555249466046680396944180390240"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "4",
+ "missionName": "Incendio en jardín",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "318351120483631391215416043744635292729"
+}

@@ -1,0 +1,60 @@
+{
+ "missionId": "206/a",
+ "missionName": "Feu de centre de recyclage",
+ "requirements": [
+  {
+   "requirement": "postes de secours",
+   "qty": "1"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "4"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "5"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "2"
+  },
+  {
+   "requirement": "fmogp",
+   "qty": "3"
+  },
+  {
+   "requirement": "camion dévidoir",
+   "qty": "4"
+  },
+  {
+   "requirement": "véhicule de secours routier",
+   "qty": "1"
+  },
+  {
+   "requirement": "CCF",
+   "qty": "1"
+  },
+  {
+   "requirement": "assistance respiratoire e",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  },
+  {
+   "requirement": "MEDECIN",
+   "qty": "1"
+  }
+ ],
+ "credits": "11720",
+ "version": "38911218526815607411410591599580316634"
+}

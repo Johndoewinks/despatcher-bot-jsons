@@ -1,0 +1,24 @@
+{
+ "missionId": "242",
+ "missionName": "Przewrócenie Się Cysterny Z Paliwem",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "2723474903063787924554270281397795128",
+ "credits": "3000"
+}

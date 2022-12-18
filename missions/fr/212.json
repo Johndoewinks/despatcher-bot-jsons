@@ -1,0 +1,12 @@
+{
+ "missionId": "212",
+ "missionName": "Voiture abandonnée",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "314957503005896610846026060616118411227"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "65",
+ "missionName": "Kjøkkenbrann",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "280641050965237495826901444078394112286"
+}

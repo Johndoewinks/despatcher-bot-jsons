@@ -1,0 +1,12 @@
+{
+ "missionId": "17",
+ "missionName": "Buzón en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "222814077855392931918931017910154239546"
+}

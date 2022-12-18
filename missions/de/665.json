@@ -1,0 +1,16 @@
+{
+ "missionId": "665",
+ "missionName": "Unterkühlung",
+ "requirements": [
+  {
+   "requirement": "nef",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "203254689025108114757002478318054245379"
+}

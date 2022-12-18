@@ -1,0 +1,20 @@
+{
+ "missionId": "14",
+ "missionName": "Feu de récolte sur pied (petit)",
+ "requirements": [
+  {
+   "requirement": "ccf",
+   "qty": "3"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "189778083354711366273116860390268159290"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "8",
+ "missionName": "Feu d'encombrants",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "267255635760467967667149063691995278426"
+}

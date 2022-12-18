@@ -1,0 +1,16 @@
+{
+ "missionId": "219",
+ "missionName": "Tráfico de drogas",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "4"
+  },
+  {
+   "requirement": "unidad canina",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "291645568599113189649534435317324401060"
+}

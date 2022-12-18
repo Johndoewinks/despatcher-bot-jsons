@@ -1,0 +1,12 @@
+{
+ "missionId": "433/a",
+ "missionName": "Masseslagsmål",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "5"
+  }
+ ],
+ "credits": "2200",
+ "version": "292209220228954336277626387931411638250"
+}

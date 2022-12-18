@@ -1,0 +1,12 @@
+{
+ "missionId": "45",
+ "missionName": "Furto numa loja",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "205238118739984503768241547310734654107"
+}

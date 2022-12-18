@@ -1,0 +1,12 @@
+{
+ "missionId": "71",
+ "missionName": "Krvácanie z nosa",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "196628087354434531323621835321997093870"
+}

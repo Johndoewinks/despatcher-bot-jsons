@@ -1,0 +1,12 @@
+{
+ "missionId": "80",
+ "missionName": "Allergische reactie",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "55591107500416838555698161465436582122"
+}

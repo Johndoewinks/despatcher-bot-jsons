@@ -1,0 +1,12 @@
+{
+ "missionId": "65",
+ "missionName": "401 Keittiöpalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "217019257879489512329255281414074581304"
+}

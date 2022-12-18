@@ -1,0 +1,12 @@
+{
+ "missionId": "768",
+ "missionName": "Ademhalingsproblemen",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "82468994835390966978460066533845562011"
+}

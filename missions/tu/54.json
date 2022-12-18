@@ -1,0 +1,12 @@
+{
+ "missionId": "54",
+ "missionName": "Park halindeki araba kazası",
+ "requirements": [
+  {
+   "requirement": "gerekli polis arabaları",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "181875186931438422046167794917835458692"
+}

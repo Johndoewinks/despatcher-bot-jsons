@@ -1,0 +1,16 @@
+{
+ "missionId": "106/a",
+ "missionName": "Massenschlägerei",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "5"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "2200",
+ "version": "123281953892130287536248885429678844680"
+}

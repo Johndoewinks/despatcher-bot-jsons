@@ -1,0 +1,12 @@
+{
+ "missionId": "328",
+ "missionName": "Berusad person vid tågstation",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "283905928661101090428585010803043853646"
+}

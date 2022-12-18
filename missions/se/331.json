@@ -1,0 +1,16 @@
+{
+ "missionId": "331",
+ "missionName": "Tillbud - barn inlåst in bil",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "123995814246247996062223490874621191122"
+}

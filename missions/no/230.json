@@ -1,0 +1,12 @@
+{
+ "missionId": "230",
+ "missionName": "Gressbrann som følge av fyrverkeri",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "276026839595860180863775421655011200661"
+}

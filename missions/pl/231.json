@@ -1,0 +1,16 @@
+{
+ "missionId": "231",
+ "missionName": "Złamanie otwarte",
+ "requirements": [
+  {
+   "requirement": "ambulanse",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "73719852607112786107933354773544232776",
+ "credits": "1500"
+}

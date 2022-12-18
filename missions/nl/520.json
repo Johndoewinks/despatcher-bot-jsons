@@ -1,0 +1,12 @@
+{
+ "missionId": "520",
+ "missionName": "Gebroken arm",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "217871391960858377531996167425143464174"
+}

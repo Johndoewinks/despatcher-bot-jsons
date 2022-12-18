@@ -1,0 +1,12 @@
+{
+ "missionId": "551",
+ "missionName": "Einbruch auf Betriebsgelände",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "248888773918595742372492636392509756337"
+}

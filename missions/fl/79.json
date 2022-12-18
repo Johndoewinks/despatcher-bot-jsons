@@ -1,0 +1,12 @@
+{
+ "missionId": "79",
+ "missionName": "741 Selkärankavamma",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "233736448319994522571084999736250517741"
+}

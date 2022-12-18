@@ -1,0 +1,12 @@
+{
+ "missionId": "104",
+ "missionName": "Brennende påskekurv",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "106563547451821993402370251894724532606"
+}

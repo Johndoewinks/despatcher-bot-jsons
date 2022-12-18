@@ -1,0 +1,20 @@
+{
+ "missionId": "161",
+ "missionName": "Dykolycka",
+ "requirements": [
+  {
+   "requirement": "båtar",
+   "qty": "1"
+  },
+  {
+   "requirement": "dykbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "99241133987918896631274993374579598167"
+}

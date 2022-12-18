@@ -1,0 +1,16 @@
+{
+ "missionId": "405",
+ "missionName": "Motorrijder gevallen",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "126159053875883280926380703269072725771"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "233",
+ "missionName": "Pilny transport międzyszpitalny",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "212126072194543738041584153877455144652",
+ "credits": "1500"
+}

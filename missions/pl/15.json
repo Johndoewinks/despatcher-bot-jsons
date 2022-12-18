@@ -1,0 +1,12 @@
+{
+ "missionId": "15",
+ "missionName": "Mały pożar lasu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "105774199795317462781570311650618164958",
+ "credits": "1010"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "184",
+ "missionName": "Panikångest",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "144648669143691504434738525358930100396"
+}

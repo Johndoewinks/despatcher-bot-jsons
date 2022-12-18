@@ -1,0 +1,12 @@
+{
+ "missionId": "75",
+ "missionName": "Espantapájaros en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "228546480855857329391343485505312847781"
+}

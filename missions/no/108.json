@@ -1,0 +1,24 @@
+{
+ "missionId": "108",
+ "missionName": "Veltet påskeegg lastebil",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "2200",
+ "version": "107271618577501119167587783891383126808"
+}

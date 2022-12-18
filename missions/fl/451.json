@@ -1,0 +1,12 @@
+{
+ "missionId": "451",
+ "missionName": "604 Huumausainerikostutkinta",
+ "requirements": [
+  {
+   "requirement": "rikostutkintayksiköt",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "23476632986323892248433318861266082220"
+}

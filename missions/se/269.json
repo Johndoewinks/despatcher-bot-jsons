@@ -1,0 +1,12 @@
+{
+ "missionId": "269",
+ "missionName": "Fjärilar i magen",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "2296401709454472818743323672312609797"
+}

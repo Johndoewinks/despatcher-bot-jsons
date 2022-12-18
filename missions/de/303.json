@@ -1,0 +1,20 @@
+{
+ "missionId": "303",
+ "missionName": "Carportbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "151157507871805803035826067010235277615"
+}

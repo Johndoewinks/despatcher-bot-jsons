@@ -1,0 +1,16 @@
+{
+ "missionId": "220",
+ "missionName": "Jubileumsballong fast i träd",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "3582087475494389652340114999176209582"
+}

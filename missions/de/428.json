@@ -1,0 +1,32 @@
+{
+ "missionId": "428",
+ "missionName": "Schneelast auf Dach",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": 5
+  },
+  {
+   "requirement": "elw 1",
+   "qty": 1
+  },
+  {
+   "requirement": "drehleitern (dlk 23)",
+   "qty": 1
+  },
+  {
+   "requirement": "gw-höhenrettung",
+   "qty": 1
+  },
+  {
+   "requirement": "rw",
+   "qty": 1
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": 1
+  }
+ ],
+ "credits": "1500",
+ "version": "183769275217122757054660831470078710916"
+}

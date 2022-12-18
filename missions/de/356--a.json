@@ -1,0 +1,28 @@
+{
+ "missionId": "356/a",
+ "missionName": "Häusliche Gewalt - eskaliert",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "sek-fahrzeuge",
+   "qty": "4"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "2100",
+ "version": "276486009162214959794229608670752025346"
+}

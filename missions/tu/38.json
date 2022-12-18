@@ -1,0 +1,12 @@
+{
+ "missionId": "38",
+ "missionName": "Felç",
+ "requirements": [
+  {
+   "requirement": "maks. hastalar",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "92468968505900238811023094622378077213"
+}

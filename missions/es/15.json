@@ -1,0 +1,12 @@
+{
+ "missionId": "15",
+ "missionName": "Incendio forestal pequeño",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "1010",
+ "version": "315854459490834944790137072053642804128"
+}

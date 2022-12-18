@@ -1,0 +1,12 @@
+{
+ "missionId": "230",
+ "missionName": "Feuerprobealarm an Schule",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "93032360960024142656950378809746862923"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "416",
+ "missionName": "Händelse, våldsam fotbollssupporter - sjukhus",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "10"
+  }
+ ],
+ "credits": "6010",
+ "version": "262510156891438480934196547569555996184"
+}

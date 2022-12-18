@@ -1,0 +1,12 @@
+{
+ "missionId": "346",
+ "missionName": "Queda numa Escada",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "282077781603699388526614216008506050266"
+}

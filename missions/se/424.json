@@ -1,0 +1,12 @@
+{
+ "missionId": "424",
+ "missionName": "Misstänkt läge",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "750",
+ "version": "137525223594385816541872934558299369445"
+}

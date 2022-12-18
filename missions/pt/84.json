@@ -1,0 +1,12 @@
+{
+ "missionId": "84",
+ "missionName": "Buscas domiciliárias",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "162024212451140699543829534029100610674"
+}

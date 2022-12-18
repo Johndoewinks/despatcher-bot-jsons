@@ -1,0 +1,12 @@
+{
+ "missionId": "424",
+ "missionName": "552 Ihmisiä hississä jumissa",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "315535848416738229479188298447194204479"
+}

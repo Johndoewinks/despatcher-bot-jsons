@@ -1,0 +1,12 @@
+{
+ "missionId": "680",
+ "missionName": "Brennender Laubhaufen",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "162313898084322804008494573919729294551"
+}

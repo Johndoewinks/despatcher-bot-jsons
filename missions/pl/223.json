@@ -1,0 +1,12 @@
+{
+ "missionId": "223",
+ "missionName": "Rodząca Kobieta",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "218180324087826673456312038445444731302",
+ "credits": "810"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "325",
+ "missionName": "745 Nyrjähtänyt nilkka",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "500",
+ "version": "99779197814728453163732596430200316147"
+}

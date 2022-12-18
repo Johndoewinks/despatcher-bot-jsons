@@ -1,0 +1,12 @@
+{
+ "missionId": "19",
+ "missionName": "Tráiler ardiendo",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "320743571945098314960478289506123312006"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "143",
+ "missionName": "Brennende Papiercontainer",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "8980424866849551145062330728702258248"
+}

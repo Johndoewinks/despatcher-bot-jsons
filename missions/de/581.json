@@ -1,0 +1,12 @@
+{
+ "missionId": "581",
+ "missionName": "Gestürzter Schlittschuhläufer",
+ "requirements": [
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "315383480153668962034947755585370733152"
+}

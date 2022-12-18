@@ -1,0 +1,12 @@
+{
+ "missionId": "35",
+ "missionName": "Embriaguez",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "318081050652941063637376737154694242219"
+}

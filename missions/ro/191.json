@@ -1,0 +1,12 @@
+{
+ "missionId": "191",
+ "missionName": "Atac de apoplexie cauzat de vizionarea unui show cu artificii",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "228625505721211065044133242693377748364"
+}

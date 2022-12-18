@@ -1,0 +1,12 @@
+{
+ "missionId": "10",
+ "missionName": "Pożar traktora",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "300638353156893967279396249777793987428",
+ "credits": "600"
+}

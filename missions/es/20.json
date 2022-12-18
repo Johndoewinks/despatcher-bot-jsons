@@ -1,0 +1,16 @@
+{
+ "missionId": "20",
+ "missionName": "Incendio en sótano",
+ "requirements": [
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "3"
+  }
+ ],
+ "credits": "2500",
+ "version": "184120810671351023977832519753005444992"
+}

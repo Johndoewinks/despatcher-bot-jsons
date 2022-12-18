@@ -1,0 +1,12 @@
+{
+ "missionId": "37",
+ "missionName": "Гострий напад астми",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "185009279802308814741659372931903764987"
+}

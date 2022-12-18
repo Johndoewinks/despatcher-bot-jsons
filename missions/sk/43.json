@@ -1,0 +1,12 @@
+{
+ "missionId": "43",
+ "missionName": "Odpadnutá osoba",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "136693047919051474325859802382070947314"
+}

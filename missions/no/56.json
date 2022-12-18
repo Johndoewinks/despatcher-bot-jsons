@@ -1,0 +1,12 @@
+{
+ "missionId": "56",
+ "missionName": "Opprør",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "232906819397464288163088179129573985599"
+}

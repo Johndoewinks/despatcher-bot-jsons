@@ -1,0 +1,12 @@
+{
+ "missionId": "71",
+ "missionName": "Blödning",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "62591566343748129223811237267847165847"
+}

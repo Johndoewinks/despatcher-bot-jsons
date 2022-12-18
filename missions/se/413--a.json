@@ -1,0 +1,12 @@
+{
+ "missionId": "413/a",
+ "missionName": "Bråk, många personer",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "5"
+  }
+ ],
+ "credits": "2200",
+ "version": "247284837936374603846721430681471548969"
+}

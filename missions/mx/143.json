@@ -1,0 +1,12 @@
+{
+ "missionId": "143",
+ "missionName": "Desaparición de niño",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "326738023512297892613817856552051570564"
+}

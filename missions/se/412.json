@@ -1,0 +1,32 @@
+{
+ "missionId": "412",
+ "missionName": "Brand i fordon, buss",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "6"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "räddningsledningsfordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "5"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "11"
+  }
+ ],
+ "credits": "3000",
+ "version": "12170811128274420384884737830310273616"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "65",
+ "missionName": "Brand i byggnad - flerfamiljshus, lägenhet",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "116289184758556650957508107074762435314"
+}

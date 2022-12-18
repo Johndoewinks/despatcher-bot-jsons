@@ -1,0 +1,12 @@
+{
+ "missionId": "371",
+ "missionName": "Acidente durante o baile de carnaval",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "3"
+  }
+ ],
+ "credits": "100",
+ "version": "134548141879419158251651708754576213299"
+}

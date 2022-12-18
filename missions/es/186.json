@@ -1,0 +1,12 @@
+{
+ "missionId": "186",
+ "missionName": "Contrabando de mercancías ilegales",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "3"
+  }
+ ],
+ "credits": "800",
+ "version": "327438601381721706272414086084138741837"
+}

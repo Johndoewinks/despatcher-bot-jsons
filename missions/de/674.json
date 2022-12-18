@@ -1,0 +1,12 @@
+{
+ "missionId": "674",
+ "missionName": "Person in Laubhaufen gestürzt",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "84644887972529394701415644538086207607"
+}

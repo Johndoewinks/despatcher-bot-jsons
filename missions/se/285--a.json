@@ -1,0 +1,20 @@
+{
+ "missionId": "285/a",
+ "missionName": "Brinnande transformatorstation",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "142848365688159070103717077924212913511"
+}

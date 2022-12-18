@@ -1,0 +1,12 @@
+{
+ "missionId": "391",
+ "missionName": "Høylytt krangling",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "313796350019002141582329064410352714198"
+}

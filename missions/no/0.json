@@ -1,0 +1,12 @@
+{
+ "missionId": "0",
+ "missionName": "Brennende søppeldunk",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "163267771559701822233716971013309186680"
+}

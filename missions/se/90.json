@@ -1,0 +1,12 @@
+{
+ "missionId": "90",
+ "missionName": "Liten fältbrand orsakad av fyrverkerier",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "159770724810308772146193443208764116839"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "448",
+ "missionName": "Reconnaissance Incendie",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "41176142225159718946117407031489118799"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "159",
+ "missionName": "Ødelagt trafikklys",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "37566496477963315903335376148993488749"
+}

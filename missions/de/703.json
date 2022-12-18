@@ -1,0 +1,12 @@
+{
+ "missionId": "703",
+ "missionName": "Akute Rückenschmerzen",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "34995761782189491274757264050699530940"
+}

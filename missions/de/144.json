@@ -1,0 +1,12 @@
+{
+ "missionId": "144",
+ "missionName": "Brennende Hecke",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "61930721452066947798094964808259979713"
+}

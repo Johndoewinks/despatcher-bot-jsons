@@ -1,0 +1,12 @@
+{
+ "missionId": "45",
+ "missionName": "Stöld",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "39058475651204900516981582340983703120"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "331",
+ "missionName": "Øm hals efter fejring",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "1",
+ "version": "194268808621849034319174204640040259112"
+}

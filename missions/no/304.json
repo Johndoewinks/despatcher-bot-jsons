@@ -1,0 +1,12 @@
+{
+ "missionId": "304",
+ "missionName": "Pusteproblemer",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "219283315436513732398854824720298949465"
+}

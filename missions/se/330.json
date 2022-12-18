@@ -1,0 +1,12 @@
+{
+ "missionId": "330",
+ "missionName": "Kolmonoxidförgiftning",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "148287119969361588367816282305059398704"
+}

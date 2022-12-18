@@ -1,0 +1,12 @@
+{
+ "missionId": "349",
+ "missionName": "Surveillance de compétition de natation",
+ "requirements": [
+  {
+   "requirement": "ambulances es",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "178582146873898472608859431816190088519"
+}

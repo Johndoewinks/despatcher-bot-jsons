@@ -1,0 +1,12 @@
+{
+ "missionId": "270",
+ "missionName": "Verstoß gegen Sprengstoffverordnung",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "63363496138375966484969285828195282923"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "391",
+ "missionName": "401 Kaatunut kynttilä",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "256599303874215542595227033523616323350"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "691",
+ "missionName": "Lungenödem",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "296424856858424039992588920078449204100"
+}

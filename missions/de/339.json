@@ -1,0 +1,20 @@
+{
+ "missionId": "339",
+ "missionName": "Herzinfarkt",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "320759920765160726711739933608147282467"
+}

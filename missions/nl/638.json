@@ -1,0 +1,12 @@
+{
+ "missionId": "638",
+ "missionName": "Baby van commode gevallen",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "69206362735847168912160584040611868369"
+}

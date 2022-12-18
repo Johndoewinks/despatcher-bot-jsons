@@ -1,0 +1,12 @@
+{
+ "missionId": "144",
+ "missionName": "Niño desaparecido",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "229630770992423012087663721266285193935"
+}

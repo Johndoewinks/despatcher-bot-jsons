@@ -1,0 +1,12 @@
+{
+ "missionId": "37",
+ "missionName": "Andningsbesvär",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "122179281219947094581685493995735985217"
+}

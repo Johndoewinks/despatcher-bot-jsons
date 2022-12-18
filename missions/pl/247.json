@@ -1,0 +1,28 @@
+{
+ "missionId": "247",
+ "missionName": "Pożar stolarni",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "7"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  }
+ ],
+ "version": "281716803630694678196681902759636014542",
+ "credits": "5000"
+}

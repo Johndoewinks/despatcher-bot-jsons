@@ -1,0 +1,16 @@
+{
+ "missionId": "129",
+ "missionName": "Assalto a Carrinha de Transporte de Valores",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "5"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "3"
+  }
+ ],
+ "credits": "2250",
+ "version": "313013427425468316646784824587308669489"
+}

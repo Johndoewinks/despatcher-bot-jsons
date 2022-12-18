@@ -1,0 +1,16 @@
+{
+ "missionId": "140",
+ "missionName": "35 Pieni väkivaltainen mielenosoitus",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  }
+ ],
+ "credits": "2200",
+ "version": "248216518825081374306996026185102522795"
+}

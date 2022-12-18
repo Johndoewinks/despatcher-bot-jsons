@@ -1,0 +1,11 @@
+{
+ "missionId": "101",
+ "missionName": "Persoană deshidratată",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "version": "92713346066702166762604677752434541317"
+}

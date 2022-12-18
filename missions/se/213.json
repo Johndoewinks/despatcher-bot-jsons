@@ -1,0 +1,12 @@
+{
+ "missionId": "213",
+ "missionName": "Patrullering - krogmiljö",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "178982339089489760992139958321139314061"
+}

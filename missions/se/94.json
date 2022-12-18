@@ -1,0 +1,12 @@
+{
+ "missionId": "94",
+ "missionName": "Bränder i papperscontainrar orsakade av fyrverkerier",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "289282942420208632030664027660450920888"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "30",
+ "missionName": "Fuite de gaz",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "86275180618319329740742890482893226660"
+}

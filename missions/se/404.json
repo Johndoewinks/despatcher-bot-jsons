@@ -1,0 +1,12 @@
+{
+ "missionId": "404",
+ "missionName": "Hussökning",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "323238658449507233616862543542213955402"
+}

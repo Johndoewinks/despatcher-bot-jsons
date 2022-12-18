@@ -1,0 +1,12 @@
+{
+ "missionId": "10",
+ "missionName": "Brand ute - fordon, arbetsmaskin",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "75641095324236578907589928800701672297"
+}

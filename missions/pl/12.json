@@ -1,0 +1,12 @@
+{
+ "missionId": "12",
+ "missionName": "Drzewo na drodze",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "101633208577965083524763061427970845691",
+ "credits": "310"
+}

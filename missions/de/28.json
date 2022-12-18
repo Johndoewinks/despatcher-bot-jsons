@@ -1,0 +1,12 @@
+{
+ "missionId": "28",
+ "missionName": "Garagenbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "297719318205394574737968724503715043952"
+}

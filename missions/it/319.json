@@ -1,0 +1,16 @@
+{
+ "missionId": "319",
+ "missionName": "Segnalazione di persona in acqua",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "165068059903660465505299734131495131995"
+}

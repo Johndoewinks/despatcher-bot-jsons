@@ -1,0 +1,12 @@
+{
+ "missionId": "192",
+ "missionName": "Záchvat paniky",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "250",
+ "version": "154540047022664322560207428020619171149"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "95",
+ "missionName": "Techo dañado",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "209913520817014383467646546477528255521"
+}

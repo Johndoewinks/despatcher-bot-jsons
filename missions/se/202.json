@@ -1,0 +1,12 @@
+{
+ "missionId": "202",
+ "missionName": "Brinnande pumpafält",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "248461063810698993906750462873468847560"
+}

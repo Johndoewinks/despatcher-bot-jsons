@@ -1,0 +1,12 @@
+{
+ "missionId": "414",
+ "missionName": "Allergisk reaktion på pollen",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "10653155689039045085978606357250727495"
+}
