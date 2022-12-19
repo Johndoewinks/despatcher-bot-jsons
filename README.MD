@@ -1,4 +1,4 @@
-# Mission Chief Bot JSONS
+# Despatcher Bot JSONS
 
 These are publically editable files, so that you can easily create a fork for mission changes etc.
 
