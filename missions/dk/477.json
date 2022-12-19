@@ -1,0 +1,16 @@
+{
+ "missionId": "477",
+ "missionName": "Kontrol af skibstrafikken",
+ "requirements": [
+  {
+   "requirement": "nødvendigt personale til rådighed",
+   "qty": "6x Maritim Politi"
+  },
+  {
+   "requirement": "nødvendigt personale",
+   "qty": "2x Maritim Politi"
+  }
+ ],
+ "version": "155532739017542271597436167366541769444",
+ "credits": "500"
+}

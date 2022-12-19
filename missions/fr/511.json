@@ -1,0 +1,20 @@
+{
+ "missionId": "511",
+ "missionName": "Escorte médicale",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulances es",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "195422994726760991545173522539304387702",
+ "credits": "800"
+}

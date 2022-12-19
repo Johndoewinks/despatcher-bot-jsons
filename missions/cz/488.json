@@ -1,0 +1,16 @@
+{
+ "missionId": "488",
+ "missionName": "Zátah na opilé nezletilé osoby",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "dodávky pořádkové jednotky",
+   "qty": "1"
+  }
+ ],
+ "version": "333881589804122528748516840219458611612",
+ "credits": "2900"
+}

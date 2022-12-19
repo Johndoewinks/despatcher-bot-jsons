@@ -1,0 +1,12 @@
+{
+ "missionId": "567",
+ "missionName": "Veicolo sulla Spiaggia",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "214380998112371575960946732922340549841",
+ "credits": "1000"
+}
