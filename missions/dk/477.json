@@ -1,0 +1,12 @@
+{
+ "missionId": "477",
+ "missionName": "Kontrol af skibstrafikken",
+ "requirements": [
+  {
+   "requirement": "lille kystrednings båd",
+   "qty": "1"
+  }
+ ],
+ "version": "155532739017542271597436167366541769444",
+ "credits": "500"
+}
