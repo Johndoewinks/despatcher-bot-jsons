@@ -1,0 +1,24 @@
+{
+ "missionId": "32/a",
+ "missionName": "Kaminbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "3"
+  }
+ ],
+ "version": "13547755597760689357600076845330907563",
+ "credits": "1500"
+}
