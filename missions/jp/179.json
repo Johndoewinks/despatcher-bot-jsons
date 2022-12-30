@@ -1,0 +1,12 @@
+{
+ "missionId": "179",
+ "missionName": "花火による自動車火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "version": "172247458583386758502428670131091124641",
+ "credits": "370"
+}

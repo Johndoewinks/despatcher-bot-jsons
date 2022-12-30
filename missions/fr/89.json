@@ -1,0 +1,12 @@
+{
+ "missionId": "89",
+ "missionName": "Abribus en feu causé par des feux d'artifice",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "version": "326711027829178476767419930864150022940",
+ "credits": "900"
+}

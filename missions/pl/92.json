@@ -1,0 +1,12 @@
+{
+ "missionId": "92",
+ "missionName": "Pożar wiaty przystankowej wywołany fajerwerkami",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "199014049481371597960802731690000417910",
+ "credits": "900"
+}

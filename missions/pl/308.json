@@ -1,0 +1,16 @@
+{
+ "missionId": "308",
+ "missionName": "Nielegalny użytek fajerwerków",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "149669851089544884049608634396118464001",
+ "credits": "800"
+}

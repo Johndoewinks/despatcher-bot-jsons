@@ -1,0 +1,12 @@
+{
+ "missionId": "700",
+ "missionName": "Vuurwerk afgestoken op de weg",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "version": "216376666203747537284223037525044880020",
+ "credits": "300"
+}
