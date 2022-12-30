@@ -1,0 +1,12 @@
+{
+ "missionId": "303",
+ "missionName": "Poranienie związane z wybuchem niewystrzału",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "150522837647616906011493819637714592074",
+ "credits": "100"
+}

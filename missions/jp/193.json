@@ -1,0 +1,12 @@
+{
+ "missionId": "193",
+ "missionName": "不発弾爆発による負傷",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "2"
+  }
+ ],
+ "version": "280024313783450923872661687099171066413",
+ "credits": "100"
+}

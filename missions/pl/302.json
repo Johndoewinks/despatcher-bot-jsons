@@ -1,0 +1,12 @@
+{
+ "missionId": "302",
+ "missionName": "Atak paniki zwierzęcia spowodowane fajerwerkami",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "206535382781870931073135309868856975244",
+ "credits": "100"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "99",
+ "missionName": "Naruszenie przepisów ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "250006770873945711490539464791042231158",
+ "credits": "200"
+}

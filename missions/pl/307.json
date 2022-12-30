@@ -1,0 +1,16 @@
+{
+ "missionId": "307",
+ "missionName": "Patrol wewnątrzmiastowy, zw. z Nowym Rokiem",
+ "requirements": [
+  {
+   "requirement": "ambulanse",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "4"
+  }
+ ],
+ "version": "306528725164533695932448846730431618061",
+ "credits": "15000"
+}

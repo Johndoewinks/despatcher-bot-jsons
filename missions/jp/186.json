@@ -1,0 +1,12 @@
+{
+ "missionId": "186",
+ "missionName": "爆竹による生け垣の炎上",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "version": "233468878989633407108164684918967463109",
+ "credits": "400"
+}

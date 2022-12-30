@@ -1,0 +1,16 @@
+{
+ "missionId": "250",
+ "missionName": "Användande av illegala fyrverkeripjäser",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "263823360845556195446033152693688927573",
+ "credits": "800"
+}
