@@ -63,5 +63,6 @@
         "mrv or ses rescue": [4, 12, 40],
         "mrv or ses rescue truck": [4, 12, 40],
         "mrv or ses rescue trucks": [4, 12, 40],
-        "MRV or SES Rescue Trucks": [4, 12, 40]
+        "MRV or SES Rescue Trucks": [4, 12, 40],
+	"major rescue or ses rescue vehicles": [4,12,40]
 }
