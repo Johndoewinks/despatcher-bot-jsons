@@ -25,5 +25,6 @@
   "brannbil": [0, 1, 10, 18, 21],
   "patruljebiler": [8, 14],
   "Tungredningsbil": [4, 18],
-  "tungredningsbil": [4, 18]
+  "tungredningsbil": [4, 18],
+  "skogbrann kjøretøyer": [34]
 }
