@@ -15,7 +15,7 @@
   "ambulance": [5, 31],
   "for innsatslederbil helse": [25],
   "for skogbrann helikopter": [33],
-  "skogbrann kjøretøy": [0, 1, 10, 18, 21, 34],
+  "skogbrann kjøretøy": [34, 0, 1, 21],
   "stigebil": [2],
   "slangebiler": [37, 38, 39],
   "skum tankbiler": [35],
@@ -26,5 +26,5 @@
   "patruljebiler": [8, 14],
   "Tungredningsbil": [4, 18],
   "tungredningsbil": [4, 18],
-  "skogbrann kjøretøyer": [34]
+  "skogbrann kjøretøyer": [34, 0, 1, 21]
 }
