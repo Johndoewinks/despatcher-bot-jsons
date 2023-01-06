@@ -2,10 +2,7 @@
  "missionId": "479",
  "missionName": "Iceskater escorregou",
  "requirements": [
-  {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "1"
-  },
+  
   {
    "requirement": "máx. de pacientes:",
    "qty": "1"

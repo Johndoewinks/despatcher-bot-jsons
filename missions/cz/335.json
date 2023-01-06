@@ -3,10 +3,10 @@
  "missionName": "Bolest v krku po oslavě",
  "requirements": [
   {
-   "requirement": "výjezdové stanoviště zzs",
+   "requirement": "maximum pacientů",
    "qty": "1"
   }
  ],
  "credits": "1",
- "version": "248699224733571037674445887088231023534"
+ "version": "2486992247335710376744458870882310235334"
 }

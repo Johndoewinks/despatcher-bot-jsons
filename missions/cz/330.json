@@ -3,10 +3,10 @@
  "missionName": "Ošetření po nafilmovaném faulu",
  "requirements": [
   {
-   "requirement": "výjezdové stanoviště zzs",
+   "requirement": "maximum pacientů",
    "qty": "1"
   }
  ],
  "credits": "1",
- "version": "235198901544667493450861710103892419491"
+ "version": "235198901544667493450861710103892419494"
 }
