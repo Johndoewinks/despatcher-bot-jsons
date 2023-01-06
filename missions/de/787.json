@@ -1,0 +1,16 @@
+{
+ "missionId": "787",
+ "missionName": "Lagerfeuer setzt Holzschuppen in Brand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "version": "47322125051497992795392104744008072713",
+ "credits": "500"
+}

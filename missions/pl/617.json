@@ -1,0 +1,16 @@
+{
+ "missionId": "617",
+ "missionName": "Ognisko podpala drewutnię",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "325849799892409518466773373334667809943",
+ "credits": "500"
+}

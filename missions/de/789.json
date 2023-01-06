@@ -1,0 +1,12 @@
+{
+ "missionId": "789",
+ "missionName": "Kinder werfen Schneebälle auf Menschen und Häuser",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "version": "44320597132214405016023988661283732306",
+ "credits": "550"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "479",
+ "missionName": "Snöbollskrig pågår",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "version": "204819252741030503610939685144292794249",
+ "credits": "550"
+}

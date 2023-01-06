@@ -1,0 +1,16 @@
+{
+ "missionId": "464",
+ "missionName": "Bråk på frossen innsjø",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "version": "186521314711249045895905966929835944251",
+ "credits": "650"
+}

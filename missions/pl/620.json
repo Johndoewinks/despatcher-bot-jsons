@@ -1,0 +1,12 @@
+{
+ "missionId": "620",
+ "missionName": "Walka na śnieżki trwa",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "192255350751947142199463882005852767957",
+ "credits": "550"
+}

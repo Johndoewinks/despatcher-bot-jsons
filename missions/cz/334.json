@@ -3,10 +3,10 @@
  "missionName": "Omrzliny z chladícího spreje",
  "requirements": [
   {
-   "requirement": "výjezdové stanoviště zzs",
+   "requirement": "maximum pacientů",
    "qty": "1"
   }
  ],
  "credits": "1",
- "version": "13983593452614058058255570303231944719"
+ "version": "13983593452614058058255570303231944722"
 }

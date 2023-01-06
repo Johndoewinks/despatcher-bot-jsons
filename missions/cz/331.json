@@ -3,10 +3,10 @@
  "missionName": "Zranění po nárazu na tyč",
  "requirements": [
   {
-   "requirement": "výjezdové stanoviště zzs",
+   "requirement": "maximum pacientů",
    "qty": "1"
   }
  ],
  "credits": "1",
- "version": "55127885749706230889065234411745147324"
+ "version": "55127885749706230889065234411745147327"
 }

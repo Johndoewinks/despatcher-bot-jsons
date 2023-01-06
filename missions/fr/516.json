@@ -1,0 +1,16 @@
+{
+ "missionId": "516",
+ "missionName": "Un feu de camp met le feu à un bûcher",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "77733280645654050730765767306936322298",
+ "credits": "500"
+}

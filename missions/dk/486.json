@@ -1,0 +1,12 @@
+{
+ "missionId": "486",
+ "missionName": "Børn kaster snebolde på folk og huse",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "version": "245149925025170369451069245943990588799",
+ "credits": "550"
+}
