@@ -1,0 +1,16 @@
+{
+ "missionId": "574",
+ "missionName": "Rissa sul lago ghiacciato",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "version": "306382065263930578510177532005554526915",
+ "credits": "650"
+}

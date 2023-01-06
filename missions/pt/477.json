@@ -1,0 +1,16 @@
+{
+ "missionId": "477",
+ "missionName": "Campismo pega fogo a lenha",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "version": "176129287188153551040011663283231570886",
+ "credits": "500"
+}

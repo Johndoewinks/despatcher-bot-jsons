@@ -1,0 +1,12 @@
+{
+ "missionId": "478",
+ "missionName": "Iceskater halkade",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "87735891148778788425088367279267815050",
+ "credits": "100"
+}

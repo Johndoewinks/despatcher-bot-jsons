@@ -1,0 +1,12 @@
+{
+ "missionId": "619",
+ "missionName": "Iceskater wyślizgnął się",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "26089874947800926961739758715576171743",
+ "credits": "100"
+}

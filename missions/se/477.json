@@ -1,0 +1,16 @@
+{
+ "missionId": "477",
+ "missionName": "Bråk på frusen sjö",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "version": "104798865157176303842004164700695520300",
+ "credits": "650"
+}

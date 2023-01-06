@@ -1,0 +1,12 @@
+{
+ "missionId": "437",
+ "missionName": "Niños lanzando bolas de nieve sobre personas y casas",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "version": "565711886447686280755672903210612682",
+ "credits": "550"
+}

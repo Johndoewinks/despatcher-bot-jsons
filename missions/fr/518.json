@@ -1,0 +1,12 @@
+{
+ "missionId": "518",
+ "missionName": "Glacekater a glissé",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "102196369290330013212884572265717434627",
+ "credits": "100"
+}

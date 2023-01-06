@@ -1,0 +1,16 @@
+{
+ "missionId": "478",
+ "missionName": "Briga em lago congelado",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "2"
+  }
+ ],
+ "version": "211976425434271087093025500203138774704",
+ "credits": "650"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "491",
+ "missionName": "Rvačka na zamrzlém jezeře",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "version": "331431942573776162923091374813135206601",
+ "credits": "650"
+}

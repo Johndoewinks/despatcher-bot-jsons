@@ -1,0 +1,12 @@
+{
+ "missionId": "493",
+ "missionName": "Děti házející sněhové koule na lidi a domy",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "version": "325746342970005641169365650241398307267",
+ "credits": "550"
+}

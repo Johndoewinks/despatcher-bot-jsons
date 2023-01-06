@@ -1,0 +1,12 @@
+{
+ "missionId": "436",
+ "missionName": "Iceskater resbaló",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "41038346002923702987943025770004326701",
+ "credits": "100"
+}
