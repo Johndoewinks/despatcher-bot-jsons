@@ -6,5 +6,5 @@
  "'wir benötigen noch min' and 'mit gw-wasserrettung ausbildung'" : {"name" : "gw-wasserrettung", "qty" : "1"},
  "'wir benötigen noch min' and 'mit dekon-p ausbildung'" : {"name" : "dekon-p", "qty" : "1"},
  "'Wir benötigen noch min' and 'mit Dekon-P Ausbildung'" : {"name" : "dekon-p", "qty" : "1"},
- "'Zusätzlich benötigte Fahrzeuge' and 'anhänger drucklufterzeugung'" : {"name" : "dekon-p", "qty" : "1"}
+ "'Zusätzlich benötigte Fahrzeuge' and 'anhänger drucklufterzeugung'" : {"name" : "anhänger drucklufterzeugung", "qty" : "1"}
 }
