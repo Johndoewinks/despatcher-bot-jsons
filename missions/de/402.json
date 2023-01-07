@@ -5,8 +5,16 @@
   {
    "requirement": "löschfahrzeuge",
    "qty": "1"
+  },
+  {
+   "requirement": "ulf",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
   }
  ],
  "credits": "400",
- "version": "182504322584563950318805628004415829440"
+ "version": "192504322584563950318805628004415829442"
 }
