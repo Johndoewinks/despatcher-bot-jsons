@@ -1,0 +1,16 @@
+{
+ "missionId": "473",
+ "missionName": "Septicémia",
+ "requirements": [
+  {
+   "requirement": "ambulâncias de socorro necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "version": "162248950449363265890656179085765988522",
+ "credits": "550"
+}
