@@ -1,0 +1,28 @@
+{
+ "missionId": "821",
+ "missionName": "Fire Line Requested",
+ "requirements": [
+  {
+   "requirement": "personnel available",
+   "qty": "20x Hotshot"
+  },
+  {
+   "requirement": "forestry expansions",
+   "qty": "3"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "10x Hotshot"
+  }
+ ],
+ "version": "226335725260960872594873609647810032249",
+ "credits": "1000"
+}
