@@ -1,0 +1,12 @@
+{
+ "missionId": "1001",
+ "missionName": "Verdachte door politiehond gebeten",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "58290951334319721413158228057963702171",
+ "credits": "100"
+}
