@@ -1,0 +1,24 @@
+{
+ "missionId": "572",
+ "missionName": "Tentativo di incendio doloso",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  }
+ ],
+ "version": "55706657476869478501311904187594998653",
+ "credits": "1250"
+}
