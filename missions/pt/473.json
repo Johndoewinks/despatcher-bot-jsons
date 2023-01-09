@@ -3,10 +3,6 @@
  "missionName": "Septicémia",
  "requirements": [
   {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "6"
-  },
-  {
    "requirement": "ambulâncias de socorro necessárias:",
    "qty": "1"
   },

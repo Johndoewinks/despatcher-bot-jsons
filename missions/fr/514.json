@@ -3,10 +3,6 @@
  "missionName": "Incendie dans centrale nucléaire",
  "requirements": [
   {
-   "requirement": "extensions de soutien à incendie s",
-   "qty": "3"
-  },
-  {
    "requirement": "fourgons d’incendie",
    "qty": "10"
   },
@@ -47,15 +43,15 @@
    "qty": "1"
   },
   {
-   "requirement": "fmogp s",
+   "requirement": "fmogp",
    "qty": "2"
   },
   {
-   "requirement": "camions dévidoirs s",
+   "requirement": "camions dévidoirs",
    "qty": "2"
   },
   {
-   "requirement": "motopompes s",
+   "requirement": "motopompes",
    "qty": "2"
   },
   {
