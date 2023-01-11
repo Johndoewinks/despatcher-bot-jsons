@@ -74,5 +74,8 @@
 	"miljöfartyg": [46],
 	"pråm": [50],
 	"svävare": [49],
-	"skogsbrandsfordon saknas": [21, 22, 23]
+	"skogsbrandsfordon saknas": [21, 22, 23],
+	"l": [6, 0, 12, 1],
+	"l vatten": [6, 0, 12, 1],
+	"polis till behövs": [8]
 }
