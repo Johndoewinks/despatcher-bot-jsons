@@ -203,7 +203,11 @@
 		"Oddziały Prewencji Policji",
 		"posterunki policji",
 		"posiadany personel",
-		"stacje"
+		"stacje",
+		"hangars",
+		"extensions",
+		"personnel available",
+		"personnel"
 	],
 	"replace": [
 		"\n",
