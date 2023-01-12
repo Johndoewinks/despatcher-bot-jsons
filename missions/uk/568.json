@@ -1,0 +1,20 @@
+{
+ "missionId": "568",
+ "missionName": "Rescue Boat Assist Coastguard, Persons Cut off by Tide",
+ "requirements": [
+  {
+   "requirement": "crvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "inland rescue boat (trailer)",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  }
+ ],
+ "version": "285898784783977389790847514651654887084",
+ "credits": "6500"
+}

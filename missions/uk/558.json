@@ -1,0 +1,12 @@
+{
+ "missionId": "558",
+ "missionName": "Man Remote Radio Site",
+ "requirements": [
+  {
+   "requirement": "crvs",
+   "qty": "1"
+  }
+ ],
+ "version": "290623709362701419308662016548824417997",
+ "credits": "12000"
+}
