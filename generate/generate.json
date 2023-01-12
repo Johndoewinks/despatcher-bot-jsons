@@ -207,7 +207,10 @@
 		"hangars",
 		"extensions",
 		"personnel available",
-		"personnel"
+		"personnel",
+		"Hangars",
+		"Personnel Available",
+		"Personnel"
 	],
 	"replace": [
 		"\n",
