@@ -1,0 +1,12 @@
+{
+ "missionId": "263",
+ "missionName": "Jubilæumsfestgæst med ledsmerter efter dans",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "5"
+  }
+ ],
+ "version": "198766168248693895336475116409982371408",
+ "credits": "100"
+}
