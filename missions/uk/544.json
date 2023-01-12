@@ -1,0 +1,12 @@
+{
+ "missionId": "544",
+ "missionName": "Abandoned Flares",
+ "requirements": [
+  {
+   "requirement": "crvs",
+   "qty": "1"
+  }
+ ],
+ "version": "137252288746192978797979026693668294137",
+ "credits": "1500"
+}

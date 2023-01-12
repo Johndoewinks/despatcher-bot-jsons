@@ -1,0 +1,12 @@
+{
+ "missionId": "542",
+ "missionName": "Investigate Flare from coastline",
+ "requirements": [
+  {
+   "requirement": "crvs",
+   "qty": "1"
+  }
+ ],
+ "version": "135075117357047427562707930953999488909",
+ "credits": "1500"
+}

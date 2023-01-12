@@ -1,0 +1,16 @@
+{
+ "missionId": "550",
+ "missionName": "Medical Evacuation From Coastline, Broken Leg",
+ "requirements": [
+  {
+   "requirement": "crvs",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "159604839689050755594109114069528243371",
+ "credits": "1800"
+}
