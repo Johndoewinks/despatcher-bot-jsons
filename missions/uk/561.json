@@ -3,10 +3,6 @@
  "missionName": "Medivac from vessel",
  "requirements": [
   {
-   "requirement": "helicopter hangars",
-   "qty": "1"
-  },
-  {
    "requirement": "albs",
    "qty": "1"
   },

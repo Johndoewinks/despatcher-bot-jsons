@@ -3,10 +3,6 @@
  "missionName": "Person trapped in flood water",
  "requirements": [
   {
-   "requirement": "flood rescue extensions",
-   "qty": "1"
-  },
-  {
    "requirement": "crvs",
    "qty": "2"
   },

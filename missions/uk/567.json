@@ -3,18 +3,6 @@
  "missionName": "Mud Rescue MAJOR",
  "requirements": [
   {
-   "requirement": "mud decontamination extensions",
-   "qty": "4"
-  },
-  {
-   "requirement": "hovercraft extensions",
-   "qty": "1"
-  },
-  {
-   "requirement": "personnel available",
-   "qty": "60x Mud Rescue Operator"
-  },
-  {
    "requirement": "mud decontamination units",
    "qty": "4"
   },
@@ -37,10 +25,6 @@
   {
    "requirement": "inland rescue boat (trailer)",
    "qty": "1"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "30x Mud Rescue Operator"
   },
   {
    "requirement": "max. patients",

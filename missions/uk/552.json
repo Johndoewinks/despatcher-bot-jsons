@@ -3,10 +3,6 @@
  "missionName": "Evacuation from Cruise Liner",
  "requirements": [
   {
-   "requirement": "helicopter hangars",
-   "qty": "1"
-  },
-  {
    "requirement": "ilbs",
    "qty": "2"
   },

@@ -3,16 +3,8 @@
  "missionName": "Fallen From Cliff",
  "requirements": [
   {
-   "requirement": "personnel available",
-   "qty": "20x Rope Rescue Operator"
-  },
-  {
    "requirement": "coastguard rope rescue units",
    "qty": "2"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "10x Rope Rescue Operator"
   },
   {
    "requirement": "max. patients",

@@ -3,10 +3,6 @@
  "missionName": "Evacuation from Cruise Liner MAJOR",
  "requirements": [
   {
-   "requirement": "helicopter hangars",
-   "qty": "4"
-  },
-  {
    "requirement": "ilbs",
    "qty": "6"
   },
