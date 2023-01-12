@@ -1,0 +1,24 @@
+{
+ "missionId": "546",
+ "missionName": "Hovercraft Assist Coastguard Mud Rescue",
+ "requirements": [
+  {
+   "requirement": "coastguard mud rescue units",
+   "qty": "2"
+  },
+  {
+   "requirement": "mud decontamination units",
+   "qty": "1"
+  },
+  {
+   "requirement": "hovercrafts (trailer)",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "version": "90123423342844026271599205476695375897",
+ "credits": "8000"
+}

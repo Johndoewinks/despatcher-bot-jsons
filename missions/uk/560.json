@@ -1,0 +1,12 @@
+{
+ "missionId": "560",
+ "missionName": "Broken Down Boat",
+ "requirements": [
+  {
+   "requirement": "albs",
+   "qty": "1"
+  }
+ ],
+ "version": "144129195701762716851479712726626330783",
+ "credits": "6000"
+}

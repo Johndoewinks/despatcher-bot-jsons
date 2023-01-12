@@ -1,0 +1,16 @@
+{
+ "missionId": "548",
+ "missionName": "Fallen From Cliff",
+ "requirements": [
+  {
+   "requirement": "coastguard rope rescue units",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "168372455635781212684259166654876862487",
+ "credits": "7000"
+}

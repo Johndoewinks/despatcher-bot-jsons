@@ -1,0 +1,16 @@
+{
+ "missionId": "547",
+ "missionName": "Person Stuck on Cliff",
+ "requirements": [
+  {
+   "requirement": "coastguard rope rescue units",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "110517258962902167660503719907190131036",
+ "credits": "6000"
+}

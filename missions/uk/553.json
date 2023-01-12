@@ -1,0 +1,20 @@
+{
+ "missionId": "553",
+ "missionName": "Evacuation from Cruise Liner MAJOR",
+ "requirements": [
+  {
+   "requirement": "ilbs",
+   "qty": "6"
+  },
+  {
+   "requirement": "coastguard rescue helicopters",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "18"
+  }
+ ],
+ "version": "163555021143384513496907291115576410305",
+ "credits": "25000"
+}

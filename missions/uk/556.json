@@ -1,0 +1,12 @@
+{
+ "missionId": "556",
+ "missionName": "Give Safety Advice",
+ "requirements": [
+  {
+   "requirement": "crvs",
+   "qty": "1"
+  }
+ ],
+ "version": "66813998402873281124495001045862073773",
+ "credits": "800"
+}
