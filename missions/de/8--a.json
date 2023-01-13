@@ -1,0 +1,16 @@
+{
+ "missionId": "8/a",
+ "missionName": "Sperrmüllbrand",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "version": "140173769560638179029565171097142745247",
+ "credits": "270"
+}
