@@ -29,5 +29,7 @@
     "vehículos de materiales peligrosos": [7],
     "coche patrulla": [8],
     "hazmat": [7],
-    "ambulancia": [5]
+    "ambulancia": [5],
+    "l de agua": [6, 0, 12, 1],
+    "vehículo aéreos": [10]
 }
