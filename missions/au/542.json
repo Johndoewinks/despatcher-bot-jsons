@@ -1,0 +1,24 @@
+{
+ "missionId": "542",
+ "missionName": "Significant House Flooding",
+ "requirements": [
+  {
+   "requirement": "ses storm trailer",
+   "qty": "2"
+  },
+  {
+   "requirement": "major rescue or ses rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "version": "337443767629166733183324026861732228503",
+ "credits": "1600"
+}

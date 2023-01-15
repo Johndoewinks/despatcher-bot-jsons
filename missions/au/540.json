@@ -1,0 +1,12 @@
+{
+ "missionId": "540",
+ "missionName": "Minor House Flooding",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "329984949727620977763560667547983990653",
+ "credits": "800"
+}
