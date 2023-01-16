@@ -1,0 +1,12 @@
+{
+ "missionId": "541",
+ "missionName": "Smoking Electrical Equipment",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "version": "83661357676259432644474147876036033153",
+ "credits": "800"
+}
