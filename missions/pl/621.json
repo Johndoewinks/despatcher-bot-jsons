@@ -1,0 +1,20 @@
+{
+ "missionId": "621",
+ "missionName": "Próba samobójcza",
+ "requirements": [
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  }
+ ],
+ "version": "128455718474743197348363437441183696968",
+ "credits": "780"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "494",
+ "missionName": "Požár v papírně",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "4"
+  }
+ ],
+ "version": "39393114555012168682912615634239428037",
+ "credits": "780"
+}

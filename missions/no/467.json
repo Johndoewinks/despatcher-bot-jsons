@@ -1,0 +1,12 @@
+{
+ "missionId": "467",
+ "missionName": "Brann i en papirfabrikk",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "version": "77251247329962497981616033315225958356",
+ "credits": "100"
+}
