@@ -1,0 +1,24 @@
+{
+ "missionId": "474",
+ "missionName": "Tentativa de fogo posto",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos tanque necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  }
+ ],
+ "version": "58742112198162750927769125932099526276",
+ "credits": "1250"
+}
