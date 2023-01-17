@@ -1,0 +1,12 @@
+{
+ "missionId": "621",
+ "missionName": "Próba samobójcza",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  }
+ ],
+ "version": "128455718474743197348363437441183696968",
+ "credits": "780"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "577",
+ "missionName": "Contrabbando via mare",
+ "requirements": [
+  {
+   "requirement": "motovedetta d'altura",
+   "qty": 2
+  }
+ ],
+ "version": "313340531188926982440004018099817239361",
+ "credits": "1200"
+}

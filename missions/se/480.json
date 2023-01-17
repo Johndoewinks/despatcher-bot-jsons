@@ -1,0 +1,12 @@
+{
+ "missionId": "480",
+ "missionName": "Smuggling via båt",
+ "requirements": [
+  {
+   "requirement": "övervakningsfartyg",
+   "qty": 1
+  }
+ ],
+ "version": "297820214254198490684184446875213660771",
+ "credits": "1200"
+}
