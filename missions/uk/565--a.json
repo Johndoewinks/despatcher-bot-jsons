@@ -3,14 +3,6 @@
  "missionName": "Vehicle trapped in flood water",
  "requirements": [
   {
-   "requirement": "technical rescue extensions",
-   "qty": "1"
-  },
-  {
-   "requirement": "flood rescue extensions",
-   "qty": "1"
-  },
-  {
    "requirement": "fire engines",
    "qty": "2"
   },

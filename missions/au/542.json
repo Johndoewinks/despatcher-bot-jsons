@@ -15,6 +15,10 @@
    "qty": "1"
   },
   {
+    "requirement": "ses vehicle",
+    "qty": 1
+   },
+  {
    "requirement": "max. patients",
    "qty": "5"
   }

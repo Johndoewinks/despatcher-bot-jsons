@@ -3,12 +3,8 @@
  "missionName": "Smuggling via båt",
  "requirements": [
   {
-   "requirement": "nødvendigt personale til rådighed",
-   "qty": "6x Maritim Politi"
-  },
-  {
-   "requirement": "nødvendigt personale",
-   "qty": "2x Maritim Politi"
+   "requirement": "lille kystrednings båd",
+   "qty": "1"
   }
  ],
  "version": "244559265663425942073057247470331802248",

@@ -3,7 +3,7 @@
  "missionName": "Smuggling via båt",
  "requirements": [
   {
-   "requirement": "ambulance",
+   "requirement": "övervakningsfartyg",
    "qty": 1
   }
  ],

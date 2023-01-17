@@ -3,8 +3,8 @@
  "missionName": "Contrabbando via mare",
  "requirements": [
   {
-   "requirement": "ambulance",
-   "qty": 1
+   "requirement": "motovedetta d'altura",
+   "qty": 2
   }
  ],
  "version": "313340531188926982440004018099817239361",

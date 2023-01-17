@@ -3,10 +3,6 @@
  "missionName": "Brand in stadion",
  "requirements": [
   {
-   "requirement": "hondenbrigade uitbreidingen",
-   "qty": "1"
-  },
-  {
    "requirement": "tankautospuiten",
    "qty": "1"
   },
@@ -81,10 +77,6 @@
   {
    "requirement": "politie helikopters",
    "qty": "1"
-  },
-  {
-   "requirement": "biketeams, indien beschikbaar",
-   "qty": "Ja"
   }
  ],
  "version": "224069112437147862203118295864287850757",
